@@ -1,0 +1,6 @@
+Array:
+In Java Array is a reference data type. It is used to store fixed number of multiple value of same type in
+contenous memory location.
+
+Note:
+Array always faster than all other data type in storing multiple values.

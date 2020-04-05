@@ -1,0 +1,10 @@
+Wrapper Classes:
+Classes are used to represent primitive values as object are called wrapper classes.
+There are 8 wrapper classes one per each primitive type to represent them as object.
+6 wrapper classes represent number type values these wrapper classes are called number wrapper classes.
+
+***Autoboxing:
+                Primitive type to the object of their Corresponding wrapper classes is known as autoboxing
+***Unboxing:
+                Reverse process of autoboxing. Automatically converting an object of a wrapper classes to its corresponding
+                primitive type is known as unboxing.

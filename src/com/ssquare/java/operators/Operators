@@ -1,0 +1,25 @@
+Operators:
+There are 8 type of operator:
+1) Arithmetic Operator
+2) Unary Operator
+3) Assignment Operator
+4) Relational Operator
+5) Logical Operator
+6) Ternary Operator
+7) Bitwise Operator
+8) Shift Operator
+
+Arithmetic Operator:
++,-,*,/,%
+Unary Operator:
+++,--
+Assignment Operator:
+=
+Relational Operator:
+==,!=,<,<=,>,>=
+Logical Operator:
+&&,||
+Bitwise Operator:
+&,|,^,~
+Shift Operator:
+<<,>>,>>>

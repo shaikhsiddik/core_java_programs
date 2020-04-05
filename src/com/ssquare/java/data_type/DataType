@@ -1,0 +1,18 @@
+Data Types:
+Data types are used to store data temporarily in computer through a program.
+1) Size of memory allocation and rang of data that can be accommodated inside that location.
+2) What type of result comes out from an expression when these types are used inside that expression.
+
+Different Java Data Types:
+In Java mainly we have two types of data types
+Primitive Data Type:
+User to store single value at a time.
+----->Numeric: 1) Integer: byte, short, int, long
+               2) Floating:float, double
+----->Non-Numeric: char, boolean
+Reference Data Type:
+Used to collect multiple of value using primitive type.
+1)array
+2)class
+3)interface
+4)enum
