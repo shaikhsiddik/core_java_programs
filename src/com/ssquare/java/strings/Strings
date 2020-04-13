@@ -1,0 +1,5 @@
+Strings:
+String is a collection of characters. In java string is represented in 3 ways
+1) String class
+2) StringBuffer class
+3) StringBuilder class
