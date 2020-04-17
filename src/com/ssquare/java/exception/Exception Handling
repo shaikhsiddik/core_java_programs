@@ -1,0 +1,4 @@
+Exception Handling:
+There are 2 types of Exception
+1) Compile Time Exception(uncheck exception)
+2) Runtime Exception(check exception)
